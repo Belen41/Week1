@@ -1,3 +1,3 @@
 # Week1
-# Este repo incluye los siguientes ejercicios: 
+Este repo incluye los siguientes ejercicios
 
